@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 
-(https://media.licdn.com/dms/image/v2/D4D16AQHUUAl1TYSiGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735420281550?e=1741219200&v=beta&t=62TxrR-KRkQZqpT95s2d3Cf2Kav_jRoNNwufFAZ7b64)
+https://media.licdn.com/dms/image/v2/D4D16AQHUUAl1TYSiGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735420281550?e=1741219200&v=beta&t=62TxrR-KRkQZqpT95s2d3Cf2Kav_jRoNNwufFAZ7b64
 
 
 <h3 align="left">Connect with me:</h3>
