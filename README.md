@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asiye Atak</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+
 
 
 ![MasterHead](https://ogrencikariyeri.com//AdminFiles/CMS/Content/wp-content/uploads/kod-yazma.jpg)
-
-
-
+<h3 align="center">A passionate developer from Türkiye</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
